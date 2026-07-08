@@ -61,7 +61,7 @@ A booking platform for salon services, allowing clients to schedule appointments
 #### Agriculture Circle (https://github.com/sharon-software/AGRICIRCLE) (React and Django)
 A platform connecting farmers and Store owners, where farmers can show stock availability to store owners and store owners can order what they need. 
 
-#### Personal Porfolio (https://github.com/sharon-software/Porfolio) (React)
+#### Personal Porfolio (https://github.com/sharon-software/Portfolio) (React)
 A personal portfolio showcasing my all my projects, education and skills
 
 #### AI Chatbot (https://github.com/sharon-software/Sharon-Ai-assisstant) (TypeScript)
