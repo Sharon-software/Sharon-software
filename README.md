@@ -33,7 +33,7 @@ I specialise in Software Development, with a focus on front-end and full-stack w
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-📜 Certifications & Professional Development
+### 📜 Certifications & Professional Development
 
 **Google AI Essentials Specialization** — *Google / Coursera, May 2026*
 - Introduction to AI
