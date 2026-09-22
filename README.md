@@ -64,6 +64,7 @@ A booking platform for salon services, allowing clients to schedule appointments
 A platform connecting farmers and Store owners, where farmers can show stock availability to store owners and store owners can order what they need. 
 
 ####INVESTOR APP (https://github.com/Sharon-software/INVESTOR-APP) (Java,H2 and REACT)
+
 Demo application where user can invest and withdraw their accumulated profit.  
 
 #### AI Chatbot (https://github.com/sharon-software/Sharon-Ai-assisstant) (TypeScript)
