@@ -49,7 +49,7 @@ I specialise in Software Development, with a focus on front-end and full-stack w
 **Professional Development**
 - Full Stack Development — *FNB Academy IT Varsity, 2025*
 
-**In Progress**
+**Cybersecurity**
 - [Foundations of Cybersecurity] — *Coursera*
 
 ### 🚀 Featured Projects
