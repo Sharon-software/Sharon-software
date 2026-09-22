@@ -54,15 +54,17 @@ I specialise in Software Development, with a focus on front-end and full-stack w
 
 ### 🚀 Featured Projects
 
+#### Personal Porfolio (https://github.com/sharon-software/Portfolio) (React)
+A personal portfolio showcasing my all my projects, education and skills
+
 #### Salon Booking (https://github.com/sharon-software/EverythingBeautyApp) (React and Django)
 A booking platform for salon services, allowing clients to schedule appointments, view available time slots, and manage bookings. 
-
 
 #### Agriculture Circle (https://github.com/sharon-software/AGRICIRCLE) (React and Django)
 A platform connecting farmers and Store owners, where farmers can show stock availability to store owners and store owners can order what they need. 
 
-#### Personal Porfolio (https://github.com/sharon-software/Portfolio) (React)
-A personal portfolio showcasing my all my projects, education and skills
+####INVESTOR APP (https://github.com/Sharon-software/INVESTOR-APP) (Java,H2 and REACT)
+Demo application where user can invest and withdraw their accumulated profit.  
 
 #### AI Chatbot (https://github.com/sharon-software/Sharon-Ai-assisstant) (TypeScript)
 A chatbot about my IT skills and eduction
